@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghanshyam-prajapati-it
+- 👋 Hi, I’m Ghanshyam Prajapati.
 - 👀 I’m interested in the full-stack web developer.
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, JQuery, ReactJS, NodeJS.
 - 💞️ I’m looking to collaborate on ...
